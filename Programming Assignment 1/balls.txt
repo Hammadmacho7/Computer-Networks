@@ -1,0 +1,12 @@
+ogues.  Pass it on...
+    This is an actual alert to IBM Field Engineers that went out to
+    all IBM Branch Offices.  The person who wrote it was very
+    serious.  The rest of us may find it rather funny.
+    __________________________________________________________________
+    Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)
+    Mouse balls are now available as FRU.  Therefore, if a mouse
+    fails to operate or should it perform erratically, it may need a
+    ball replacement.  Because of the delicate nature of this
+    procedure, replacement of mouse balls should only be attempted by
+    properly trained personnel.
+    Before proceeding, determine 
